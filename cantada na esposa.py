@@ -6,5 +6,5 @@ Idade = input ('sua_idade')
 if nome == 'GISLAINE':
   if sobrenome == 'RIBEIRO':
     print ('A MULHER MAIS LINDA DO MUNDO')
-else:
-  print ('n„o È a minha esposa')
+  else:
+    print ('n√£o √© a minha esposa')
